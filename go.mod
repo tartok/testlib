@@ -1,3 +1,3 @@
-module github.com/tartok/ttlib
+module github.com/tartok/testlib
 
 go 1.23
